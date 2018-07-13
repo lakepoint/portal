@@ -1,0 +1,34 @@
+# Section title
+title = "Treatments"
+
+[[projects]]
+    name = "Cognitive Behavioral Therapy"
+    folder = "proj-1"
+
+[[projects]]
+    name = "Acceptance-based Therapy"
+    folder = "proj-2"
+
+[[projects]]
+    name = "Solution Focused Therapy"
+    folder = "proj-3"
+
+[[projects]]
+    name = "Family Systems Therapy"
+    folder = "proj-4"
+
+[[projects]]
+    name = "Strength-based Therapy"
+    folder = "proj-5"
+
+[[projects]]
+    name = "Communication Therapy"
+    folder = "proj-6"
+
+[[projects]]
+    name = "Midfulness Therapy"
+    folder = "proj-7"
+
+[[projects]]
+    name = "Interpersonal Therapy"
+    folder = "proj-8"

@@ -1,0 +1,51 @@
+# Section title
+title = "FAQ"
+
+[[list]]
+    name   = "How often will we meet?"
+    quote  = "Each client’s needs are unique, so frequency of visits depends on your situation. If you are in therapy, we will want to see you weekly or every other week. If you are in crisis, we may meet as often as twice a week until you are feeling better."
+
+
+[[list]]
+    name   = "How long will I need to be in therapy?"
+    quote  = "Generally, therapy is an open-ended relationship, and we’ll discuss your goals with you at the outset. Some clients reach their goals within weeks or months while others continue the therapeutic relationship for a year or even longer. Of course, the duration of therapy is entirely up to you and you can stop at any time."
+
+
+[[list]]
+    name   = "When do you see patients?"
+    quote  = "Angie's pateint hours are Tuesday through Thursday between 10:00 am 5:00 pm."
+
+
+[[list]]
+    name   = "What if I need to contact you during non-office hours?"
+    quote  = "Please limit after-hours phone calls to urgent or emergency situations. Leave a message and we will return your call as soon as possible. In an emergency, call 911 or go to your closest Emergency Room."
+
+
+[[list]]
+    name   = "What if I need to cancel an appointment?"
+    quote  = "Cancellations are accepted up to 7 days before your appointment. After that, you will be charged for your appointment, unless we are able to fill the vacancy with another client (we usually can with a little notice)."
+
+
+[[list]]
+    name   = "What forms of payment do you accept?"
+    quote  = "Cash, Check or Credit Card."
+
+
+[[list]]
+    name   = "Why are you not an “in-network” provider for my insurance?"
+    quote  = "After careful consideration, we decided against working directly with insurance companies as an in-network provider. Insurance companies require in-network providers to abide by rules and limitations regarding treatment plans that we don't feel serve our patients. Remaining independent allows us to conduct our practice as we prefer. If your insurance company pays for out-of-network providers, we will give you a completed form that you can submit to your insurer for direct reimbursement. We ask for payment at the time of the visit."
+
+
+[[list]]
+    name   = "Do you exchange information with my other health care providers?"
+    quote  = "We will if it is deemed appropriate, but only with your consent."
+
+
+[[list]]
+    name   = "My child needs therapy; do I accompany him/her? How does that work?"
+    quote  = "A parent or guardian must accompany a child under 18 to all initial sessions with Angie O’Shea. Beyond that, you, your child and the therapist will determine how the therapy will be structured."
+
+
+[[list]]
+    name   = "How are parents kept informed of what occurs in a child’s sessions?"
+    quote  = "We offer separate sessions for parents as often as needed. We will not discuss the child’s specific issues, but can talk in general terms. It is important that the child knows that we maintain confidentiality so that the child will feel comfortable opening up to the therapist. The caveat is that we will always be specific with parents if we think the child’s life or serious well-being is at risk (i.e., if they are suicidal, homicidal, being sexually or physically abused, etc.)."

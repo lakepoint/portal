@@ -1,0 +1,123 @@
+# Site settings
+baseurl = "http://lakepointtherapy.com"
+languageCode = "en-us"
+title = "Lake Point Therapy"
+theme = "hugo-artists-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Lake Point Therapy"
+	description = "Serving individuals and families looking to find balance with their thoughts, emotions and actions"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "angie@lakepointtherapy.com"
+	phone = "(952) 294-6684"
+	fax = "(952) 300-3605"
+	address = "261 School Avenue, Suite 220 | Excelsior, MN 55331"
+
+
+	# Header an navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "Lake Point Therapy"
+		shortBio = "Center for individual and family therapy"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "About us"
+		bio = "Lake Point Therapy is private practice based in Excelsior Minnesota that serves individuals and families looking to find balance with their thoughts, emotions and actions."
+		bio2= "[Angie O’Shea](https://www.psychologytoday.com/us/therapists/angie-oshea-excelsior-mn/145453?sid=1413909127.9698_4013&zipcode=55331) is a Licensed Marriage and Family Therapist (LMFT) who has been working with individuals and families for the past 8 years to diagnos and structure treatment. Angie is a highly skilled and licensed therapist who possesses a Masters degree in psychology and specializes in helping clients cope with anxiety, fears, grief, post traumatic stress disorder (PTSD) and cognitive and behavioral issues."
+
+		[[params.about.skills]]
+			name = "Mood Disorders"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Attention Disorders"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Anxiety Disorders"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Grief and Loss"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Depression"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Addiction"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Impulse-Control Disorders"
+			value = 10
+
+		[[params.about.skills]]
+			name = "Post Traumatic Stress Disorder"
+			value = 10
+
+  # Services section
+	[params.form]
+		title = "Services"
+			# Form fields
+			name = "Your Name"
+			email = "Your Email"
+			message = "Tell me about your project"
+			buttonText = "Send"
+
+	# Treatment section
+	[params.work]
+	  title = "Treatment"
+
+	# FAQ section
+	[params.clients]
+		title = "FAQ"
+
+	# Contact section
+	[params.contact]
+		title = "Contact"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		[[params.contact.social]]
+			icon = "facebook"
+			link = "https://www.facebook.com/LakePointTherapy"
+
+		[[params.contact.social]]
+			icon = "twitter"
+			link = "https://twitter.com/lake_point_llc"
+
+		[[params.contact.social]]
+			icon = "linkedin"
+			link = "https://www.linkedin.com/company/lake-point-therapy/"
+
+
+
+	[params.footer]
+		copyright = "Published under the Unlicense License."
